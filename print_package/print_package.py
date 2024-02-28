@@ -1,6 +1,6 @@
 # print_package.py
 
-def pm(message):
+def print_message(message):
     """
     Print the given message to the console.
 

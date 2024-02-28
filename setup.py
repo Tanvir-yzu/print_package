@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='print_package',
-    version='1.1.0',
+    version='1.1.1',
     packages=find_packages(),
     author='Tanvir',
     author_email='2020tanvir1971@gmail.com',
