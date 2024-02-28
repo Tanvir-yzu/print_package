@@ -11,7 +11,7 @@ setup(
     description='A simple Python package for printing messages.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/your_username/print_package',
+    url='https://github.com/Tanvir-yzu/print_package.git',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',

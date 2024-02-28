@@ -25,9 +25,9 @@ print_message("Hello, world!")
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [MIT](LICENSE) file for details.
 
 ## Contact
 
-For questions or feedback, please contact [Your Name](mailto:your.email@example.com).
+For questions or feedback, please contact [Tanvir](mailto:2020tanvir1971@gmail.com).
 ```
