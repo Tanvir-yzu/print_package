@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: print_package
-Version: 1.0.0
+Version: 1.1.0
 Summary: A simple Python package for printing messages.
-Home-page: https://github.com/your_username/print_package
+Home-page: https://github.com/Tanvir-yzu/print_package.git
 Author: Tanvir
 Author-email: 2020tanvir1971@gmail.com
 Classifier: Programming Language :: Python :: 3
@@ -38,9 +38,9 @@ print_message("Hello, world!")
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [MIT](LICENSE) file for details.
 
 ## Contact
 
-For questions or feedback, please contact [Your Name](mailto:your.email@example.com).
+For questions or feedback, please contact [Tanvir](mailto:2020tanvir1971@gmail.com).
 ```
