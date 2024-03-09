@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # print_package
 
 print_package is a simple Python package for printing messages to the console.
