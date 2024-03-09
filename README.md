@@ -9,7 +9,7 @@ print_package is a simple Python package for printing messages to the console.
 
 You can install print_package using pip:
 
-```bash
+```
 pip install print_package
 ```
 
